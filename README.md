@@ -10,7 +10,7 @@ OpenCV2
 Numpy
 Mediapipe
 Tensorflow
-## To train
+### Training
 Sklearn
 Pandas
 Seaborn
@@ -18,5 +18,5 @@ Seaborn
 # Acknowledgements
 This [repository](https://link-url-here.org) was used to collect the data which I heavily modified to work for my use
 
-#Known Problems
+# Known Problems
 The letters J and Z aren't included as these required motion in order to execute and wouldn't work with my approach, the letter V is also not included as this was too similar to other letters and was not functioning properly
