@@ -5,7 +5,7 @@ The AI classifier is used in this program to power a quiz game with multiple gam
 
 This program uses your webcam to detect handsigns and tries to classify them using openCV2, Mediapipe and Tensorflow 
 
-#Requirements
+# Requirements
 OpenCV2
 Numpy
 Mediapipe
