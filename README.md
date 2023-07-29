@@ -12,6 +12,7 @@ Mediapipe
 Tensorflow
 ### Training
 Sklearn
+
 Pandas
 Seaborn
 
