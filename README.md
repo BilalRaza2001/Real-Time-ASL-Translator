@@ -15,7 +15,7 @@ Sklearn
 Pandas
 Seaborn
 
-#Acknowledgements
+h1 Acknowledgements
 This [repository](https://link-url-here.org) was used to collect the data which I heavily modified to work for my use
 
 #Known Problems
