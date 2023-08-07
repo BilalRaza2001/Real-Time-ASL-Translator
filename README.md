@@ -1,6 +1,6 @@
 # Real-Time-ASL-Translator
 
-[alt text](https://github.com/BilalRaza2001/Real-Time-ASL-Translator/blob/main/Demo%201.gif)
+![Demo](https://github.com/BilalRaza2001/Real-Time-ASL-Translator/blob/main/Demo%201.gif)
 <br>
 An AI powered real-time American sign language translator for letters, Converting handsigns shown to letters which I created for my end of year university project.
 
