@@ -1,4 +1,6 @@
 # Real-Time-ASL-Translator
+
+[alt text](https://github.com/BilalRaza2001/Real-Time-ASL-Translator/blob/main/demo_1.gif?raw=true)
 An AI powered real-time American sign language translator for letters, Converting handsigns shown to letters which I created for my end of year university project.
 
 The AI classifier is used in this program to power a quiz game with multiple gamemodes the goal of which was to create a fun way for users to learn ASL allowing people to communicate with people they otherwise couldn't
